@@ -27,7 +27,6 @@ A bike-sharing system is a public bike sharing service wherein bikes are made av
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-
 ## Technologies Used
 - Pandas - version 1.3.4
 - Numpy - version 1.20.3
